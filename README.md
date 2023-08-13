@@ -1,8 +1,8 @@
 # 
-| First Header  | Second Header || First Header  | Second Header |
-| ------------- | ------------- || ------------- | ------------- |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  || Content Cell  | Content Cell  |
+| Проект  | Описание |Навыки и инструменты|kf,.f|
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 
